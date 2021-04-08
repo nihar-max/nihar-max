@@ -1,15 +1,13 @@
-### Hi there 👋
+## Hey there, I'm Nihar!
+<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
-<!--
-**nihar-max/nihar-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I graduated with an **Electronics Engineering** degree from **Mumbai University**.
+- 🌱 I'm currently learning **Data Science** by getting Certified.
+- 💻 I'm looking for full time role as **Data Analyst** as well as **Machine Learning Engineer**.
+- 🖋️ I'm actively **writing blogs** on [Medium](https://niharjamdar.medium.com/).
+- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 
-Here are some ideas to get you started:
+## Connect me on:
+- LinkedIn: https://www.linkedin.com/in/nihar-jamdar/
+- Medium: https://niharjamdar.medium.com/
 
-- 🌱 I’m currently learning 
-- computer I'm looking for a full time roles as Machine Learning Engineer as well as Data Analyst.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -7,7 +7,8 @@
 - 🖋️ I'm actively **writing blogs** on [Medium](https://niharjamdar.medium.com/).
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 
-## Connect me on:
+## Please do visit:
+- Portfolio: https://nihar-max.github.io/nihar_jamdar.github.io/
 - LinkedIn: https://www.linkedin.com/in/nihar-jamdar/
 - Medium: https://niharjamdar.medium.com/
 
